@@ -4,5 +4,6 @@ public class Main {
         System.out.println("2 commit");
         System.out.println("3 commit");
         System.out.println("5 ветка");
+        System.out.println("5 ветка 2 коммит");
     }
 }
