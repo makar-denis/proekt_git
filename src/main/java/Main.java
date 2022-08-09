@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Привет");
         System.out.println("2 commit");
         System.out.println("3 commit");
+        System.out.println("ветка 4");
     }
 }
